@@ -1,0 +1,11 @@
+a.out
+*.out
+*.exe
+*.o
+secret.txt
+output.txt
+decoded.txt
+stego.bmp
+.DS_Store
+Thumbs.db
+.vscode/
